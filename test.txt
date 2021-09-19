@@ -1,5 +1,0 @@
-Command 1
-This is first test
-This is second test
-
-
